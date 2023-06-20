@@ -1,5 +1,8 @@
-import conicas2.*;
-import java.security.spec.RSAOtherPrimeInfo;
+import conicas2.Elipse;
+import conicas2.Parabola_Equipo2;
+import conicas2.circunferencia_grupo2;
+import conicas2.hiperbole;
+
 import java.util.Scanner;
 
 public class Main {
