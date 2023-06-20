@@ -1,18 +1,18 @@
 ﻿## Capturas de pantalla
 
- 1. Código del Main
-	![](Images/codigo_main.png)
-    2. Package del Equipo 2
-    ![](Images/package.png)
- 3. Ejecución del archivo Main:
-	1. Main:
-	![](Images/main.png)
-	2. Parábola:
-	![](Images/parabola.png)
-	3. Hipérbola:
-	![](Images/hiperbole.png)
-	4. Circunferencia:
-	![](Images/circunferencia.png)
-	5. Elipse:
-	![](Images/elipse.png)
+1. Código del Main
+![](Imagenes/Main.png)
+![](Imagenes/Main2.png)
+![](Imagenes/Main3.png)
+2. Parábola:
+![](Imagenes/Parabola.png)
+![](Imagenes/Parabola2.png)
+3. Hipérbola:
+![](Imagenes/Hiperbole.png)
+4. Circunferencia:
+![](Imagenes/Circunferencia.png)
+![](Imagenes/Circunferencia2.png)
+5. Elipse:
+![](Imagenes/Elipse.png)
+![](Imagenes/Elipse2.png)
 
