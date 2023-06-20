@@ -43,30 +43,30 @@ public class Main {
             case 1 -> {
                 System.out.println("\nPARABOLA");
                 System.out.println("\n\t* Primera instancia: ");
-                    figura3.Parabola_Equipo2_ImpVer();
+                figura3.Parabola_Equipo2_ImpVer();
                 System.out.println("\n\t* Segunda instancia: ");
-                    figura4.Parabola_Equipo2_ImpVer();
+                figura4.Parabola_Equipo2_ImpVer();
             }
             case 2 -> {
                 System.out.println("\nHIPERBOLE");
                 System.out.println("\n\t* Primera instancia: ");
-                    figura1.variables();
+                figura1.variables();
                 System.out.println("\n\t* Segunda instancia: ");
-                    figura2.variables();
+                figura2.variables();
             }
             case 3 -> {
                 System.out.println("\nCIRCUNFERENCIA");
                 System.out.println("\n\t* Primera instancia: ");
-                    figura5.imprimir_Datos();
+                figura5.imprimir_Datos();
                 System.out.println("\n\t* Segunda instancia: ");
-                    figura6.imprimir_Datos();
+                figura6.imprimir_Datos();
             }
             case 4 -> {
                 System.out.println("\nELIPSE");
                 System.out.println("\n\t* Primera instancia: ");
-                    figura7.imprimir_Datos();
+                figura7.imprimir_Datos();
                 System.out.println("\n\t* Segunda instancia: ");
-                    figura8.imprimir_Datos();
+                figura8.imprimir_Datos();
             }
             default -> System.out.println("ERROR");
         }
